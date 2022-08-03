@@ -1,4 +1,4 @@
-- 👋 Olá, sou Thifany Aires, tenho 22 anos, sou de Porto Alegre e apaixonada por programação.
+- 👋 Olá, sou Thifany Aires, tenho 23 anos, sou de Porto Alegre e apaixonada por programação.
 - 👀 Estou interessada em aumentar meu conhecimento e aprender cada vez mais.
 - 🌱 Atualmente estou cursando o terceiro semestre de Análise e Desenvolvimento de Sistemas na UNIASSELVI e  apaixonada
 - por Banco de Dados e Segurança da Informação.
