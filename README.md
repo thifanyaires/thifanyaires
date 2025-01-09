@@ -1,5 +1,5 @@
-- 👋 Olá, sou Thifany Aires, tenho 24 anos, sou de Porto Alegre.
-- 🌱 Atualmente estou cursando o quinto semestre de Análise e Desenvolvimento de Sistemas na UNIASSELVI. Apaixonada por tecnologia, querendo imergir cada vez mais nesse mundo. Sou comunicativa e tenho bastante facilidade para aprender coisas novas. Tenho muito interesse tanto no desenvolvimento front-end quanto no back-end, mas com foco principal em front-end.
+- 👋 Olá, sou Thifany Aires, tenho 25 anos, sou de Porto Alegre.
+- 🌱 Tecnóloga em Análise e Desenvolvimento de Sistemas pela Iergs/UNIASSELVI. DEV front-end e estudando back-end.
 - 📫 How to reach me : Email: thifany_aires@hotmail.com
 
 
